@@ -1,0 +1,2 @@
+curl http://localhost:3000/title/Pride%20and%20Prejudice
+{"isbn":"8","title":"Pride and Prejudice","author":"Jane Austen","reviews":{}}

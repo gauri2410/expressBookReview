@@ -1,0 +1,3 @@
+Command: git remote -v
+Output: Add the GitHub fork/repository remote here before submission, then run:
+git remote -v

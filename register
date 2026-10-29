@@ -1,0 +1,2 @@
+curl -X POST http://localhost:3000/register
+{"message":"User successfully registered","username":"assignmentuser"}
